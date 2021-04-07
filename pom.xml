@@ -12,9 +12,9 @@
 	<groupId>com.jdsflix</groupId>
 	<artifactId>spring-boot-vue-js</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 
-	<name>spring-boot-vuejs</name>
+	<name>spring-boot-vue-js</name>
 	<description>Demo project for Spring Boot and Vue.js</description>
 
 	<properties>
